@@ -32,6 +32,8 @@
 - Dispone actualmente de 3 niveles
 - Si sales fuera de la plataforma perdistes la partida
 - Dispone de reinicio de nivel despues de que el enemigo te atrape
+- Entre cambio de niveles puedes seguir al siguiente o seguir en el mismo para perfeccionar tu practica y ser mas rapido
+- Al llegar al ultimo nivel puedes "Salir" o "volver a empezar"
  
 
 ---
